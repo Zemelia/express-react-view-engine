@@ -19,7 +19,7 @@
   },
   "license": "BSD-2-Clause",
   "peerDependencies": {
-    "react": "^0.12.0"
+    "react": ">=0.12.0 <=0.14.0"
   },
   "dependencies": {
     "browserify": "^8.0.3",
